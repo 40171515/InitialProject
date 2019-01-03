@@ -1,6 +1,5 @@
 
-# edit made within first branch
-# second edit made within first branch
+# edit made within second branch
 
 import os
 for root, dirs, files in os.walk("/home/patch_of_scotland/Documents/Code/PyCharmProjects/MiG_based_prototype/auld_lang_syne", topdown=False):
