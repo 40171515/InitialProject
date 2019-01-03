@@ -1,9 +1,6 @@
 
-<<<<<<< HEAD
-=======
 # edit made within second branch
 
->>>>>>> a0eb6383927eb183516247e5c9163aa7b8447538
 import os
 for root, dirs, files in os.walk("/home/patch_of_scotland/Documents/Code/PyCharmProjects/MiG_based_prototype/auld_lang_syne", topdown=False):
     for name in files:
